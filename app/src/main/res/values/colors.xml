@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#3e3a4c</color>
+    <color name="vivid_pink">#f28ec0</color>
+    <color name="trans_pink">#e2acc7</color>
+    <color name="border">#efeff0</color>
+    <color name="trans_blue">#939ad5</color>
+    <color name="vivid_blue">#7c96ee</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
